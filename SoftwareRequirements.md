@@ -2,7 +2,7 @@
 
 ## Data
 
-|Type|Data|
+|Item|Data|
 |:---|:----|
 |Date of application| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 |Time of demand| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -11,7 +11,7 @@
 
 ## Hardware specifications
 
-|Type|Hardware Info|
+|Item|Hardware Info|
 |:---|:----|
 | Model Name | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 | Motherboard | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -24,7 +24,7 @@
 
 ## Software specifications
 
-|Type|Software Info|
+|Item|Software Info|
 |:---|:----|
 | OS Type | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ( Android 4.2, Android 5.1, Linux 3.2, Linux 4.4, Win Compact 7 )
 | Lnaguage | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ( Engliag, French, German, Taiwan )
@@ -33,7 +33,7 @@
 
 ## Embedded Linux Filesystem Collaboration Work Specification
 
-|Software Type|Software Name|
+|Item|Software Name|
 |:----|:----|
 | **Web Service** | [httpd](https://wiki.openwrt.org/doc/howto/http.httpd)
 | **Remote Control** | [OpenSSH](https://www.openssh.com/)
