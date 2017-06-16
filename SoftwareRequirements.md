@@ -1,6 +1,7 @@
 # Software Requirements
 
 ## Data
+
 |Type|Data|
 |:---|:----|
 |Date of application| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -9,6 +10,7 @@
 |Customer| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Hardware specifications
+
 |Type|Hardware Info|
 |:---|:----|
 | Model Name | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -21,6 +23,7 @@
 
 
 ## Software specifications
+
 |Type|Software Info|
 |:---|:----|
 | OS Type | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ( Android 4.2, Android 5.1, Linux 3.2, Linux 4.4, Win Compact 7 )
