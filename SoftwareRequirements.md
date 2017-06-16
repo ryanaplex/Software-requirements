@@ -29,19 +29,20 @@
 | Customized specifications | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
 ## Embedded Linux Filesystem Collaboration Work Specification
+
 ### APP Type / APP Name
 
 |software type|software name|
 |:----|:----|
-| **Web Service** | httpd
-| **Remote Control** | Telnet, OpenSSH
-| **Audio & Video Tool** | alsa-utils, ffmpeg, mplayer
-| **FTP Service** | ftpd
-| **Compression Tools** | tar
-| **Program Tools** | PHP, Python3
-| **Data Base** | MySQL, Sqlite
-| **JSON/XML** | jsoncpp, libxml2
-| **Text Editor** | vi/vim
-| **Network Tools** | can-utils, dhcpcd, iputils, net-tools, iproute2
-| **Watch Dog** | watchdogd
-| **Internet Time** | ntp
+| **Web Service** | [httpd](https://wiki.openwrt.org/doc/howto/http.httpd)
+| **Remote Control** | [OpenSSH](https://www.openssh.com/)
+| **Audio & Video Tool** | [alsa-utils](https://www.alsa-project.org/main/index.php/Main_Page), [ffmpeg](https://ffmpeg.org/), [mplayer](http://www.mplayerhq.hu/design7/news.html)
+| **FTP Service** | [ftpd](https://serverfault.com/questions/770954/how-do-i-use-busybox-and-ftpd-to-get-access-to-my-embedded-system)
+| **Compression Tools** | [tar](http://linuxcommand.org/man_pages/tar1.html)
+| **Program Tools** | [PHP 5](http://php.net/), [Python 3](https://www.python.org/)
+| **Data Base** | [MySQL](https://www.mysql.com/), [Sqlite](https://www.sqlite.org/)
+| **JSON** | [jsoncpp](https://github.com/open-source-parsers/jsoncpp) 
+| **Text Editor** | [vi](https://en.wikipedia.org/wiki/Vi)
+| **Network Tools** | [can-utils](http://elinux.org/Can-utils), [dhcpcd](https://wiki.archlinux.org/index.php/dhcpcd), [iputils](https://github.com/iputils/iputils), [net-tools](https://wiki.linuxfoundation.org/networking/net-tools), [iproute2](https://wiki.linuxfoundation.org/networking/iproute2)
+| **Watch Dog** | [watchdogd](https://www.busybox.net/)
+| **Internet Time** | [ntp](http://www.ntp.org/)
