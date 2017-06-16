@@ -1,6 +1,6 @@
-#Software Requirements
+# Software Requirements
 
-##Data
+## Data
 * Date of application \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 * Time of demand \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -9,7 +9,7 @@
 
 * Customer \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##Hardware specifications
+## Hardware specifications
 * Model Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 * Motherboard \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -30,7 +30,7 @@
 	( Wifi Module, 3G Module, CAN Module )
 
 
-##Software specifications
+## Software specifications
 * OS Type \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 	( Android 4.2, Android 5.1, Linux 3.2, Linux 4.4, Win Compact 7 )
     
@@ -40,14 +40,14 @@
 	( Aplex Logo, OS Primitive Logo, Customized Logo)
     
 * Customized specifications
-	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
-##Embedded Linux Filesystem Collaboration Work Specification
-###APP Type / APP Name
+## Embedded Linux Filesystem Collaboration Work Specification
+### APP Type / APP Name
 * **Web Service:** httpd
 * **Remote Control:** Telnet, OpenSSH
 * **Audio & Video Tool:** alsa-utils, ffmpeg, mplayer
