@@ -30,12 +30,10 @@
 | Lnaguage | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ( Engliag, French, German, Taiwan )
 | Boot Logo | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ( Aplex Logo, OS Primitive Logo, Customized Logo)
 | Customized specifications | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
+
 ## Embedded Linux Filesystem Collaboration Work Specification
 
-### APP Type / APP Name
-
-|software type|software name|
+|Software Type|Software Name|
 |:----|:----|
 | **Web Service** | [httpd](https://wiki.openwrt.org/doc/howto/http.httpd)
 | **Remote Control** | [OpenSSH](https://www.openssh.com/)
