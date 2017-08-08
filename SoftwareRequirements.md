@@ -49,3 +49,38 @@
 | **Network Tools** | [can-utils](http://elinux.org/Can-utils), [dhcpcd](https://wiki.archlinux.org/index.php/dhcpcd), [iputils](https://github.com/iputils/iputils), [net-tools](https://wiki.linuxfoundation.org/networking/net-tools), [iproute2](https://wiki.linuxfoundation.org/networking/iproute2)
 | **Watch Dog** | [watchdogd](https://www.busybox.net/)
 | **Internet Time** | [ntp](http://www.ntp.org/)
+
+
+## Windows Embedded Compact 7 Components SKU Comparison
+
+### Column and SKU listing Descriptions
+
+"C7E" SKU: Provides OEMs with a comprehensive package of operating components to develop a wide variety of general embedded devices.
+
+"C7P" SKU: Offers the richest set of components and applications to enable complex consumer and enterprise class devices. C7P SKU can 
+satisfy complex scenarios such as remote desktop connectivity, data sync via Active Sync, web browsing, media playback, email, contact 
+management, and voice communication. It also includes a software development kit to allow devices to be customized and extended by end 
+customers. C7P SKU is ideal for many device categories including thin clients, mobile handheld terminals, and industrial automation controllers.
+
+Reference document: [WES7 Components SKU Comparison](http://www.emtronix.com/download/windows_embedded_compact_7_components_sku_comparison.pdf)
+
+### OS Main Function 
+
+|Catalog|
+|:---|
+|Applications - End User|
+|Applications and Services Development|
+|Communication Services and Networking|
+|Core OS Services|
+|Device Drivers|
+|File Systems and Data Store|
+|Fonts|
+|Graphics and Multimedia Technologies|
+|International|
+|Internet Client Services|
+|Security|
+|Shell and User Interface|
+|Windows Embedded Compact Error Reporting|
+
+
+
