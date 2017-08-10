@@ -83,4 +83,4 @@ Reference document: [WES7 Components SKU Comparison](http://www.emtronix.com/dow
 |Windows Embedded Compact Error Reporting|
 </br>
 </br>
-<b><h2><pre>                                            Customer Acknowledges Signature ____________________________________ </pre></h2></b>
+<b><h2><pre>                      Customer Acknowledges Signature ____________________</pre></h2></b>
